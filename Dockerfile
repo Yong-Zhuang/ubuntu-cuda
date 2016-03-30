@@ -1,6 +1,6 @@
 
 FROM ubuntu:14.04
-MAINTAINER NVIDIA CORPORATION <digits@nvidia.com>
+MAINTAINER jazz14jazz@gmail.com
 
 LABEL com.nvidia.volumes.needed="nvidia_driver"
 
